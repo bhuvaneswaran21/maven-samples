@@ -10,14 +10,14 @@
   <name>Parent</name>
   <description>Just a pom that makes it easy to build both projects at the same time.</description>
 
-  <modules>
+<!--   <modules>
     <module>multi-module</module>
     <module>single-module</module>
   </modules>
 
   <prerequisites>
     <maven>3.0.3</maven>
-  </prerequisites>
+  </prerequisites> -->
    <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
